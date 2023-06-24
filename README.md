@@ -27,7 +27,9 @@ Durante 7 dias passaremos pelas tecnologias mais modernas da atualidade que as g
 ************************************
 # ![events-fullcycle](Imersao-FullCycles-logo.png) 🚀
 *******************************
+
 <a id="Esquenta"></a>
+-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.-
 #  ✨ **Esquenta**  👇 
 
 [**👆 Topo**](#Home)
@@ -136,7 +138,7 @@ Hoje você vai aprender:
 
 <br><hr><hr><br>
 
-.************************************************************************.
+-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.-
 <a id="Imersao"></a>
 # ✨ **Imersão Full Stack && Full Cycle!** 💻✨
 
@@ -201,7 +203,7 @@ Veremos como todos esses componentes se encaixam e trabalham juntos para criar u
 
 <hr><br>
 
-.************************************************************************.
+-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.-
 <a id="Desafios"></a>
 #  ✨ **Desafios** 🛠️
 
@@ -274,7 +276,7 @@ Crie o arquivo **api.http** para fazer as chamadas HTTP. Ao rodar o docker compo
 <br><hr>
 
 
-.**********************************************.
+-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.-
 <a id="Lives"></a>
 # ✨ **Lives** 🎬
 
@@ -284,51 +286,15 @@ Crie o arquivo **api.http** para fazer as chamadas HTTP. Ao rodar o docker compo
 
 Nessa live, você vai entender tudo que um dev precisa saber para construir uma carreira sólida em uma Big Tech.
 
--  [Como construir uma carreira sólida em uma Big Tech](https://youtu.be/OlNdJrshn3I)
--  [MongoDb: Hands on oficial pela equipe da Mongo](https://youtu.be/8RJohgzziLI)
+-  [🎞️ **Como construir uma carreira sólida em uma Big Tech**](https://youtu.be/OlNdJrshn3I)
+-  [🎞️ **MongoDb: Hands on oficial pela equipe da Mongo**](https://youtu.be/8RJohgzziLI)
     - Caminhos de certificaçao MongoDB, seja DBA ou DEV Learning Paths com direito a um voucher de 50% para a prova de certificação: 
-    [https://learn.mongodb.com/pages/certi...](https://learn.mongodb.com/pages/certification-learning-paths)
--  [Gitlab e entrega automatizada de aplicações: Hands on oficial da Gitlab](https://youtu.be/Gyp20s690cY)
--  [Observabilidade no mundo real no Grupo Boticário](https://youtu.be/A3oAqq8eeek)
--  [Microservices na prática](https://youtu.be/gtv9szE_P1U)
--  []()
--  []()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
-
-<hr>
-
-## 
-
-[>> Video 🎞️]()
+    [**https://learn.mongodb.com/pages/certi...**](https://learn.mongodb.com/pages/certification-learning-paths)
+-  [🎞️ **Gitlab e entrega automatizada de aplicações: Hands on oficial da Gitlab**](https://youtu.be/Gyp20s690cY)
+-  [🎞️ **Observabilidade no mundo real no Grupo Boticário**](https://youtu.be/A3oAqq8eeek)
+-  [🎞️ **Microservices na prática**](https://youtu.be/gtv9szE_P1U)
+-  [🎞️ ****]()
+-  [🎞️ ****]()
 
 <hr>
 
