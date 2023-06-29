@@ -51,7 +51,7 @@ Slides sobre configurações de ambiente:
 
 ## **02. Aprenda Docker do Zero, tutorial passo a passo**
 
-[>> Video 🎞️]()
+[>> Video 🎞️](https://youtu.be/8MJWke19g8U)
 
 ```
 Comandos:
@@ -241,7 +241,7 @@ Divirta-se!
 ### **Desafio Nest.js -- FASE 02**
 
 Informações do desafio
-Neste desafio, você deve criar uma **aplicação Nest.js** com **Docker **que rode na **porta 3000**.
+Neste desafio, você deve criar uma **aplicação Nest.js** com **Docker** que rode na **porta 3000**.
 
 Esta aplicação precisa expor 2 rotas de API Rest:
 
@@ -291,10 +291,11 @@ Nessa live, você vai entender tudo que um dev precisa saber para construir uma 
     - Caminhos de certificaçao MongoDB, seja DBA ou DEV Learning Paths com direito a um voucher de 50% para a prova de certificação: 
     [**https://learn.mongodb.com/pages/certi...**](https://learn.mongodb.com/pages/certification-learning-paths)
 -  [🎞️ **Gitlab e entrega automatizada de aplicações: Hands on oficial da Gitlab**](https://youtu.be/Gyp20s690cY)
+    - **A brief history of GitLab** **https://about.gitlab.com/company/history/**
+    - **gl-demo-ultimate-hugoazevedo** **https://gitlab.com/gl-demo-ultimate-hugoazevedo**
 -  [🎞️ **Observabilidade no mundo real no Grupo Boticário**](https://youtu.be/A3oAqq8eeek)
 -  [🎞️ **Microservices na prática**](https://youtu.be/gtv9szE_P1U)
--  [🎞️ ****]()
--  [🎞️ ****]()
+
 
 <hr>
 
