@@ -93,7 +93,7 @@ docker build -t [usuario]/[imagem]:latest
 
 ## **04. Iniciando com Kubernetes: Tutorial passo a passo**
 
-[>> Video 🎞️]()
+[>> Video 🎞️](https://youtu.be/IeB9_PSGp6k)
 
 Hoje você aprender:
 - O que é o Kubernetes;
