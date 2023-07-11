@@ -1,0 +1,43 @@
+version: '3.9'
+services:
+    mariadb:
+        image: 'mariadb:${MARIADB_VERSION}'
+        ports:
+            - "${MYSQL_PORT}:3306"
+        working_dir: /app
+        volumes:
+            - ./app/db:/var/lib/mysql
+            - ./table.sql:/docker-entrypoint-initdb.d/table.sql
+        environment:
+            MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
+            MYSQL_DATABASE: "${MYSQL_DATABASE}"
+            MYSQL_USER: "${MYSQL_USER}"
+            MYSQL_PASSWORD: "${MYSQL_PASSWORD}"
+
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        ports:
+            - "${PORT_PMA}:80"
+        environment:
+            PMA_HOST: ${PMA_HOST}
+            PMA_PORT: ${PMA_PORT}
+            PMA_USER: ${PMA_USER}
+            PMA_PASSWORD: ${PMA_PASSWORD}
+        depends_on:
+            - mariadb
+
+    webserver:
+        image: 'nginx:alpine'
+        working_dir: /app
+        volumes:
+            - '.:/app'
+            - './phpdocker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf'
+        ports:
+            - '${PORT_WEB}:80'
+
+    php-fpm:
+        build: "${PHP_PFM}"
+        working_dir: /app
+        volumes:
+            - '.:/app'
+            - './phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/8.2/fpm/conf.d/99-overrides.ini'
