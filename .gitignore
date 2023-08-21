@@ -7,7 +7,7 @@ _Lives/
 
 ssh -i ~/
 ssh*
-
+*.sql*
 *.mp4*
 
 
