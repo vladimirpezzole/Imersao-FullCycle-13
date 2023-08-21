@@ -1,1 +1,0 @@
-/media/vladimir/Myfiles/_SERVER/www/_Lab/_workshops/FullCycle/_Uteis/table.sql
