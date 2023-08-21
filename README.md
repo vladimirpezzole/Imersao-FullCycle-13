@@ -45,7 +45,7 @@ Durante 7 dias passaremos pelas tecnologias mais modernas da atualidade que as g
 
 [**👆 Topo**](#Home)
 *************
-## **01. Como montar o melhor ambiente Dev no Windows, Linux e Mac com WSL2**
+## [**01. Como montar o melhor ambiente Dev no Windows, Linux e Mac com WSL2**](_Esquenta/01.%20Como%20montar%20o%20melhor%20ambiente%20Dev%20no%20Windows,%20Linux%20e%20Mac%20com%20WSL2)
 
 [>> Video 🎞️](https://youtu.be/vkJr0mK_u6s)
 
@@ -60,7 +60,7 @@ Slides sobre configurações de ambiente:
 
 <hr>
 
-## **02. Aprenda Docker do Zero, tutorial passo a passo**
+## [**02. Aprenda Docker do Zero, tutorial passo a passo**](_Esquenta/02.%20Aprenda%20Docker%20do%20Zero,%20tutorial%20passo%20a%20passo/Docker-Php8-NGINX)
 
 [>> Video 🎞️](https://youtu.be/8MJWke19g8U)
 
@@ -94,7 +94,7 @@ docker build -t [usuario]/[imagem]:latest
 
 <hr>
 
-## **03. Nest.js + Server-Sent Events: Construindo Aplicações em Tempo Real**
+## [**03. Nest.js + Server-Sent Events: Construindo Aplicações em Tempo Real**](_Esquenta/03.%20Nest.js%20Server-Sent%20Events_%20Construindo%20Aplica%C3%A7%C3%B5es%20em%20Tempo%20Real/live-imersao-13-nestjs-sse-main)
 
 [>> Video 🎞️](https://youtu.be/lclbv5EiTlk)
 
@@ -102,7 +102,7 @@ docker build -t [usuario]/[imagem]:latest
 
 <hr>
 
-## **04. Iniciando com Kubernetes: Tutorial passo a passo**
+## [**04. Iniciando com Kubernetes: Tutorial passo a passo**](_Esquenta/04.%20Iniciando%20com%20Kubernetes_%20Tutorial%20passo%20a%20passo)
 
 [>> Video 🎞️](https://youtu.be/IeB9_PSGp6k)
 
@@ -198,13 +198,13 @@ kind delete cluster --name cluster-dev
 _*Fonte: [( jeffersonoliveira.dev )](https://jeffersonoliveira.dev/instalando-o-kind-no-linux-kubernetes-em-localhost/)_
 <hr>
 
-## **05. Iniciando com a linguagem Go. Tutorial passo a passo**
+## [**05. Iniciando com a linguagem Go. Tutorial passo a passo**](_Esquenta/05.%20Iniciando%20com%20a%20linguagem%20Go.%20Tutorial%20passo%20a%20passo)
 
 [>> Video 🎞️](https://youtu.be/E-VNDPIVhs4)
 
 <hr>
 
-## **06. Dev Container: Integração Perfeita entre Docker e VS Code**
+## [**06. Dev Container: Integração Perfeita entre Docker e VS Code**](https://github.com/vladimirpezzole/Imersao-FullCycle-13/blob/main/_Esquenta/06.%20Dev%20Container_%20Integra%C3%A7%C3%A3o%20Perfeita%20entre%20Docker%20e%20VS%20Code)
 
 [>> Video 🎞️](https://youtu.be/ecj7FLt6chg)
 
@@ -212,7 +212,7 @@ _*Fonte: [( jeffersonoliveira.dev )](https://jeffersonoliveira.dev/instalando-o-
 
 <hr>
 
-## **07. Apache Kafka: Mensageria e Stream de dados. Tutorial passo a passo**
+## [**07. Apache Kafka: Mensageria e Stream de dados. Tutorial passo a passo**](_Esquenta/07.%20Apache%20Kafka:%20Mensageria%20e%20Stream%20de%20dados.%20Tutorial%20passo%20a%20passo)
 
 [>> Video 🎞️](https://youtu.be/_EuccnmMpPo)
 
@@ -225,7 +225,7 @@ Hoje você vai aprender:
 
 <hr>
 
-## **08. Alta Performance em Tempo Real: Explorando Nest.js e Kafka**
+## [**08. Alta Performance em Tempo Real: Explorando Nest.js e Kafka**](_Esquenta/08.%20Alta%20Performance%20em%20Tempo%20Real_%20Explorando%20Nest.js%20e%20Kafka)
 
 [>> Video 🎞️](https://youtu.be/z87Yo6j_iK8)
 
